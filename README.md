@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Ferran and I'm a Game Developer from Barcelona.
 
-I'm currently working on a game project with the Didpatri research group.
+I'm currently working on a game project with the Didpatri research group.  
 I try to improve my skills everyday. Now learning about arquitectre and code patterns.
 
 You can reach me at 📧 ferran.illa26@gmail.com 
