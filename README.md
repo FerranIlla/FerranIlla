@@ -23,8 +23,8 @@ I try to improve my skills everyday, currently learning about FGGS (Indie market
 Education:
  - Video game development degree (ENTI UB)
  - Indie game development and marketing (FGGS)
- - Other self-learning (Several mentorhsips, books, tutorials...)
+ - Other self-learning (Several mentorships, books, tutorials...)
 
-
+<br>
 You can reach me at 📧 ferran.illa26@gmail.com 
 
