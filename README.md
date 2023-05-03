@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 My name is Ferran and I'm a Game Developer from Barcelona.
 
-I'm currently working on a game project with the Didpatri research group.  
-I try to improve my skills everyday. Now learning about arquitectre and code patterns.
+I'm currently working on a game called "Julia: A Science Journey" with the Didpatri research group.  
+I try to improve my skills everyday, currently learning about FGGS (Indie marketing and efficient production).
+
+Education:
+ - Video game development degree (ENTI UB)
+ - Indie game development and marketing (FGGS)
+ - Other self-learning (Several mentorhsips, books, tutorials...)
+
 
 You can reach me at 📧 ferran.illa26@gmail.com 
 
